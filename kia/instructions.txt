@@ -1,0 +1,3 @@
+Put this folder into admin/site/UI/ and then enable the theme in DSJAS.
+By KiaWeb
+v1.0.0
